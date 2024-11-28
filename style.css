@@ -17,7 +17,7 @@
     width: 100px;
 }
 .logo{
-    background-image: url(amazon_logo.jpeg);
+    background-image: url(image/amazon_logo.jpeg);
     background-size: cover  ;
     height: 50px;
     width: 100%;
@@ -113,7 +113,7 @@ span{
 }
 
 .hero-section{
-    background-image: url(hero_image.jpeg);
+    background-image: url(image/hero_image.jpeg);
     background-size: cover;
     height: 350px;
     display: flex;
