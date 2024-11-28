@@ -207,7 +207,7 @@ ul a{
 }    
 
 .logo{    
-    background-image: url(amazon_logo.jpeg);
+    background-image: url('image/amazon_logo.jpeg');
     background-size: cover  ;
     height: 50px;
     width: 100px;
